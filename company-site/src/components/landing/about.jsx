@@ -8,6 +8,7 @@ export const About = () => {
       <div className="about-box">
         <div className="text-about">
           <p>{about[0].text}</p>
+          <p>{about[0].sponsor}</p>
         </div>
         <div className="about-logo">
           <img src={about[0].image} alt="company-logo" />
