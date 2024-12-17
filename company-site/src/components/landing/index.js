@@ -6,10 +6,10 @@ import { Info } from "./info";
 import { Supports } from "./supports";
 
 export {
-    About,
-    Contacts,
-    Footer,
-    Header,
-    Info,
-    Supports
+  About,
+  Contacts,
+  Footer,
+  Header,
+  Info,
+  Supports
 }
