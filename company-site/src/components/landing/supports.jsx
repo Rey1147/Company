@@ -1,6 +1,7 @@
 import {Link} from "react-router-dom";
-import {supports} from "../data";
-import '../style/supports.css'
+import {supports} from "../../data";
+import '../../style/supports.css'
+
 export const Supports = () => {
     return (
         <section className='section-support' id='supports'>

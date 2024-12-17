@@ -1,15 +1,15 @@
-import neiro from '../assets/neiro.svg';
-import logo from '../assets/logo.svg'
-import group1 from '../assets/logo4.svg'
-import group2 from '../assets/logo3.svg'
-import laptop from '../assets/laptop.png';
-import checkCircle from '../assets/box-check-circle.svg';
+import neiro from '../image/neiro.svg';
+import logo from '../image/logo.svg'
+import group1 from '../image/logo4.svg'
+import group2 from '../image/logo3.svg'
+import laptop from '../image/laptop.png';
+import checkCircle from '../image/box-check-circle.svg';
 
-import sup1 from '../assets/sup1.png'
-import sup2 from '../assets/sup2.png'
-import sup3 from '../assets/sup3.png'
-import sup4 from '../assets/sup4.png'
-import sup5 from '../assets/sup5.png'
+import sup1 from '../image/sup1.png'
+import sup2 from '../image/sup2.png'
+import sup3 from '../image/sup3.png'
+import sup4 from '../image/sup4.png'
+import sup5 from '../image/sup5.png'
 
 export const navElement = [
     {

@@ -1,5 +1,6 @@
-import { about } from "../data";
-import '../style/about.css'
+import { about } from "../../data";
+import '../../style/about.css'
+
 export const About = () => {
     return (
         <section className='section-about' id='company'>

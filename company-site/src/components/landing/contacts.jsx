@@ -1,6 +1,7 @@
-import '../style/contacts.css'
-import { contact } from "../data";
 import {MapComponent} from "../Map";
+import { contact } from "../../data";
+import '../../style/contacts.css'
+
 export const Contacts = () => {
     return (
         <section className='section-contact' id='contacts'>

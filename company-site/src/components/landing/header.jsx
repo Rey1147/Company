@@ -1,15 +1,17 @@
-import { header } from "../data";
-import '../style/header.css'
-import {Fragment} from "react";
 import {HashLink} from "react-router-hash-link";
+import { header } from "../../data";
+import '../../style/header.css'
+
 export const Header = () => {
+
     const Button = (props) => {
         return (
             <div className={props.class}>
                 <p>{props.text}</p>
             </div>
-        );
-    };
+        )
+    }
+
     return (
         <>
             <header className='header' id='home'>

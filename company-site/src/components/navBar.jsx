@@ -1,7 +1,7 @@
 import {HashLink, HashLink as Link} from 'react-router-hash-link';
-import {navElement} from './data'
+import {navElement} from '../data'
+import '../style/navBar.css';
 
-import './style/navBar.css';
 export const NavBar = () => {
     return (
         <nav className="navBar">

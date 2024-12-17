@@ -1,5 +1,6 @@
-import { info } from "../data";
-import '../style/info.css'
+import { info } from "../../data";
+import '../../style/info.css'
+
 export const Info = () => {
     const Dot = (props) => {
         return (

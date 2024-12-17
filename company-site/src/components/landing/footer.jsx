@@ -1,5 +1,5 @@
-import '../style/footer.css'
-import {footer} from "../data";
+import {footer} from "../../data";
+import '../../style/footer.css'
 export const Footer = () => {
     return (
         <footer>
